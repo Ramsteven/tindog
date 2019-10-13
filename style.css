@@ -255,3 +255,39 @@ h1, h2, h3, h4{
 }
 
 
+@media (max-width: 758px){
+
+    .title-h1{
+        text-align: center;
+       }
+}
+
+
+@media (max-width: 500px){
+
+    .title-h1{
+        text-align: center;
+       }
+   
+
+    .container-fluid{
+        padding: 2% 7%;
+       
+     }
+
+    h1{
+        font-size: 4rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    h3{
+        font-size: 2rem;
+    }
+    p{ 
+        font-size: 2rem;
+    }
+}
+
+
+
